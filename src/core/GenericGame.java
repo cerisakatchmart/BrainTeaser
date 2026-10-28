@@ -1,5 +1,8 @@
 package core;
 
+/**
+ * One round -> one number
+ * */
 public interface GenericGame {
     /**
      * Returns a short, human-readable name for this game.
